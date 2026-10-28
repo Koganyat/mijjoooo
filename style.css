@@ -1,0 +1,42 @@
+h1 {
+    color: rgb(80, 110, 202);
+    font-size: 40px;
+    text-align: center;
+}
+
+p {
+    background-color: blue;
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(152, 255, 114);
+    padding: 100px;
+    margin: 50px;
+}
+
+.lebedi {
+    color: rgb(244, 229, 71);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: rgb(191, 243, 236);
+    padding: 20px;
+    margin: 100px;
+    border: 3px solid rgb(255, 54, 141);
+    border-radius: 40%;
+}
+
+a {
+    color: rgb(167, 159, 202);
+    background-color: rgb(254, 0, 165);
+    text-decoration: none;
+    font-size: 30px;
+
+
+    display: inline-block;
+    padding: 30px;
+    border-radius: 30%;
+}
+
+img {
+    border: 10px double rgb(167, 159, 202);
+}
